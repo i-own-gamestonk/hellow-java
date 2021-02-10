@@ -111,6 +111,9 @@ public class SayHello
         System.out.println("\n What's good my peeps? I'm Justin Meek!");
         counter++;
 
+        System.out.println("\n Lets see if this works now.  -Sean");
+        counter++;
+        
         System.out.println( "\nNumber of students who edited this file: "
             + counter );
         
